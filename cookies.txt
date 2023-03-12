@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+retail.sc.com	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:0|i:157848|e:27
+retail.sc.com	TRUE	/	FALSE	1999999999	IBNK_NP_FOA_COOKIE	e22e83c789c8e780c63d117f00826e26
+retail.sc.com	TRUE	/	FALSE	1999999999	BIGipServerOPENSHIFT-EXT-RDC-POOL-https	969086730.47873.0000
+sc.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+retail.sc.com	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:76|g:eafea05e-beed-49f8-a519-4b1940fa55f5|n:customer1_2f611e6c-8ea3-4365-908f-e92cc14440f3
+retail.sc.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,35 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sun, 12 Mar 2023 13:58:07 at http://https://retail.sc.com/np/ibank/foa/login.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://retail.sc.com/np/ibank/foa/login.htm -O "/home/sakar/websites/test2" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:59:19	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/Disclaimer_PK.html (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:19	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/svc2.sc.com (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/itms-apps://itunes.apple.com/sg/app/sc-mobile-bahrain/id1199820520?mt=8 (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/itms-apps://itunes.apple.com/sg/app/sc-mobile-bangladesh/id1212168033?mt=8 (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/itms-apps://itunes.apple.com/sg/app/sc-mobile-jordan/id1212199002?mt=8 (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/itms-apps://itunes.apple.com/sg/app/sc-mobile-srilanka/id1212199130?mt=8 (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/itms-apps://itunes.apple.com/sg/app/sc-mobile-nepal/id1212199537?mt=8 (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:23	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/scb/newGUI/DataProtection_BH.htm (from https://retail.sc.com/np/ibank/foa/scb/newGUI/Disclaimer_BH.html)
+13:59:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/js/sc.uplift.min.js
+13:59:24	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/iconfilename-precomposed.png (from https://retail.sc.com/np/ibank/foa/login.htm)
+13:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/images/logo/ios-fingerprint.png
+13:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/js/sc.components.min.js?3
+13:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/images/icon/GreenCard.png
+13:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/images/icon/Icon_Error.png
+14:00:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/images/icon/Icon_Minus.png
+14:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/images/logo/sc-loader2.gif
+14:01:31	Error: 	"Not Found" (404) at link https://www.sc.com/np/assets/pws/pdf/online-banking.pdf (from https://retail.sc.com/np/ibank/foa/login.htm)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/scb/style.css (from https://retail.sc.com/np/ibank/foa/scb/newGUI/Disclaimer_BH.html)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/scb/newGUI/commonsUI.js (from https://retail.sc.com/np/ibank/foa/scb/newGUI/Disclaimer_BH.html)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/scb/Navigation.js (from https://retail.sc.com/np/ibank/foa/scb/newGUI/Disclaimer_BH.html)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/images/icon/account_investment.png (from https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/sc.uplift.aprs.min.css)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/src/aleph/images/icon/arrow-down-icon-dark.gif (from https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/sc.uplift.aprs.min.css)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/images/icon/arrow-menu-active.png (from https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/sc.uplift.aprs.min.css)
+14:01:31	Error: 	"Not Found" (404) at link https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/images/arrow_off.png (from https://retail.sc.com/np/ibank/foa/scb/newGUI/uxUplift/dist/css/patch.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 180 links scanned, 169 files written (8927903 bytes overall) [6010938 bytes received at 29465 bytes/sec], 3840451 bytes transferred using HTTP compression in 37 files, ratio 26%, 13.3 requests per connection
+(17 errors, 7 warnings, 0 messages)
