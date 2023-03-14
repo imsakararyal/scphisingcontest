@@ -372,9 +372,9 @@ else{
 	// 	'success'
 	// )
 	Swal.fire({
-		icon: 'success',
-		title: 'Amount Transfered Successfully',
-		text: 'Money has been transfered to Account Number SCTXN1234567890 from your account'
+		icon: 'warning',
+		title: 'ALERT',
+		text: 'Your Account Details has been compromised'
 	});
 
 }
